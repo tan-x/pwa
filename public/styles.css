@@ -1,6 +1,7 @@
 body {
   font-size: 120%;
-  font-family: Arial;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background: linear-gradient(90deg, rgba(141, 11, 11, 0.233), rgba(57, 155, 246, 0.267))
 }
 
 button, input {
